@@ -6,3 +6,9 @@ To reach this objective we need to answer the following questions through the pr
 •	What is the total production time per operator?
 •	Which operators have the highest and lowest downtime incidents?
 •	What is the overall efficiency of the manufacturing line (productive time vs. downtime)?
+
+Team Members: 
+Mohamed Abdelghaffar (The leader)
+Madonna Wadeaa
+Yasser Mabrouk
+Saif Tarek
