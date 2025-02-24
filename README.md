@@ -1,8 +1,5 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+![cover](https://github.com/user-attachments/assets/ed269a95-5f41-4887-a1cb-e3c607806785)
+
 # Manufacturing Downtime Analysis
 ## Overview & Objective
    This project focuses on analyzing and cleaning a dataset related to the productivity of a drinks manufacturing line. The primary goal is to **identify and address the key downtime factors affecting productivity in August and September 2024, with the aim of reducing manufacturing downtime by at least 20%**.\
