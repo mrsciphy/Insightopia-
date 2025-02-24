@@ -1,4 +1,5 @@
 ![cover](https://github.com/user-attachments/assets/ed269a95-5f41-4887-a1cb-e3c607806785)
+![steps](https://github.com/user-attachments/assets/af47f10d-4474-4a33-b9e6-3e96132b3d3d)
 
 # Manufacturing Downtime Analysis
 ## Overview & Objective
@@ -10,6 +11,8 @@ To achieve this objective, we will explore the following:
 - What is the total production time per operator?
 - Which operators have the highest and lowest downtime incidents?
 - What is the overall efficiency of the manufacturing line (productive time vs. downtime)?\
+![overview](https://github.com/user-attachments/assets/d5d995de-c96d-451d-af89-39b40a927a29)
+
 ## Team Members:
 * Mohamed Abdelghaffar (Team Lead)
 * Madonna Wadeaa
@@ -48,5 +51,34 @@ To achieve this objective, we will explore the following:
 + Set of analysis and forecasting questions.
 + Visualization dashboard for answering the questions.
 + Final report and presentation.
+## Project Plan
+### Key Milestones: 
+![plan](https://github.com/user-attachments/assets/a3615b06-592d-48c9-bdeb-d808f0738281)
+
+### Project Timeline (Gantt Chart):
+![Gantt Chart](https://github.com/user-attachments/assets/910047df-9841-459c-8b1b-36f72842b433)
+
+# Risk Assessment and Mitigation Plan
+Potential risks that could impact on the success of the analysis and its implementation:\
+a)	Data collection issues:
+•	Risk: incomplete data or too many missing values in the dataset.
+•	Impact: poor analysis leading to incorrect downtime cause identification.
+•	Mitigation: validate, clean and preprocess the data before the analysis.
+b)	Analysis challenges:
+•	Risk: incorrect statistical and data model leading to misleading conclusions. 
+•	Impact: ineffective decision making and wasted time.
+•	Mitigation: use multiple analysis tools (SQL, python, Power BI) and continuously refine models with the instructor reflection. 
+c)	Lack of actionable insights:
+•	Risk: analysis results are too complex or do not translate into clear improvements.
+•	Impact: difficulty in implementing recommendations leading to no improvements in downtime
+•	Mitigation: present the findings in a clear visual dashboard (e.g. charts) and provide actionable recommendations.
+d)	Lack of meeting time:
+•	Risk: team members have their work hours or it’s hard to agree on specific time for all members.
+•	Impact: delay in following the project plan procedures leading to poor willingness to work.
+•	Mitigation: schedule online meetings via MS. Teams and send the instructions on WhatsApp group of the team. 
+
+## Risk Assessment Matrix:
+
+
 
 
