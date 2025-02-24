@@ -1,5 +1,5 @@
-# Manufacturing Downtime Analysis\
-## Overview & Objective\
+# Manufacturing Downtime Analysis
+## Overview & Objective
    This project focuses on analyzing and cleaning a dataset related to the productivity of a drinks manufacturing line. The primary goal is to **identify and address the key downtime factors affecting productivity in August and September 2024, with the aim of reducing manufacturing downtime by at least 20%**.\
 To achieve this objective, we will explore the following:
 
