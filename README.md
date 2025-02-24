@@ -103,8 +103,9 @@ Potential risks that could impact on the success of the analysis and its impleme
 * Proactively address potential conflicts or concerns to mitigate risks and improve collaboration.
 
 ## Overview of the stakeholders:
-![stakeholders2](https://github.com/user-attachments/assets/73f2313d-af1c-4e36-83cc-68e912a9c8f4)
-![Picture1](https://github.com/user-attachments/assets/7690a8b1-3395-4de1-b371-620169c3159c)
+![stakeholders2](https://github.com/user-attachments/assets/4d4ed6f2-e00a-4a5e-93e4-e75c0968227d)
+* The power interest grid: 
+![power interest](https://github.com/user-attachments/assets/94d3f9f8-e7c9-41ff-86bf-9a90226cb86d)
 
 ## Stakeholders’ needs and expectations:
 ![needs](https://github.com/user-attachments/assets/58d6f952-3d7d-4562-bffa-ba0ad73063cd)
@@ -112,35 +113,33 @@ Potential risks that could impact on the success of the analysis and its impleme
 ## Impacts of findings on stakeholders:
 ![needs](https://github.com/user-attachments/assets/18903fd5-d800-4390-9fe7-64839a6c41a1)
 
-![needs](https://github.com/user-attachments/assets/08ad0b95-760a-4a4d-bf43-742413e90260)
-
 # System Analysis & Design
 ## Overview schema (Tables and attributes):
 The problem is to find the downtime keys and try to reduce them by 20%, in the following lines the tables and their attributes of the dataset. 
-* Before modification:
+* Before modification:\
 ![erd1](https://github.com/user-attachments/assets/5ad80c29-87ac-44a6-87db-a863373b3907)
 
-We found that the table of “line downtime” is not structured very well because it has empty cells as shown: 
+We found that the table of “line downtime” is not structured very well because it has empty cells as shown:\
 ![table](https://github.com/user-attachments/assets/2c3b543b-d1b6-47c4-bcfa-76195eadcfbd)
 
-So, we had to modify this table into a structured one in order to prepare it for the analysis.
+So, we had to modify this table into a structured one in order to prepare it for the analysis.\
 ![table2](https://github.com/user-attachments/assets/73303b08-710d-4b7f-9635-9b8491fb5455)
 
-# Overview of schema after modification:
+### Overview of schema after modification:
 ![schema](https://github.com/user-attachments/assets/ac6c7ee9-3b42-42af-a6c5-cbf2dccce4ab)
 
 ## Database design & Data modeling:
-**ERD (after modification)**:
+* **ERD (after modification)**:
+
 ![erd2](https://github.com/user-attachments/assets/9369e57b-b7f4-4ace-a4b3-fab5b18e9ba9)
 
-**Data Model (Galaxy Schema)**:
+- Data Model-Galaxy Schema:
+
 ![schema2](https://github.com/user-attachments/assets/82bebd79-09ae-4e65-9112-020e2c4019de)
 
-**Data model (from SQL)**: 
+- Data model from SQL:
+
 ![data model](https://github.com/user-attachments/assets/99454f1c-1278-4279-8016-03f7d210a08a)
-
-
-
 
 
 
